@@ -1,8 +1,10 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(String[])
-comment0.text=\nle\ point\ d'entr\u00E9e\ de\ cette\ application,\ dont\ le\ commentaire\ est\ \u00E0\ncompl\u00E9ter\n\n@param\ args\n...\n\n
-comment1.params=f
-comment1.target=float\ fahrenheitEnCelsius(int)
-comment1.text=\nla\ m\u00E9thode\ \u00E0\ compl\u00E9ter.\n\n@param\ f\nla\ valeur\ en\ degr\u00E9\ Fahrenheit\n@return\ la\ conversion\ en\ degr\u00E9\ Celsius\n\n
-numComments=2
+comment0.target=FahrenheitCelsius
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ FahrenheitCelsius\ ici.\r\n\ \r\n\ @author\ Christina\ Kamel\r\n\ @version\ 1.0\r\n
+comment1.params=temperaturesEnFahrenheit
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Cette\ applicatiob\ prend\ en\ parametre\ des\ temperatures\ en\ fahrenheit\ et\ affiche\ leurs\ valeurs\ en\ celsius\r\n\ \r\n\ @param\ temperaturesEnFahrenheit\ \:\ vecteur\ d'entiers\r\n\ \ \ \ \ \ \ \ \ \ \ \ ...\r\n
+comment2.params=temperatureEnFahrenheit
+comment2.target=double\ fahrenheitEnCelsius(int)
+comment2.text=\r\n\ la\ m\u00E9thode\ \u00E0\ compl\u00E9ter.\r\n\ \r\n\ @param\ temperatureEnFahrenheit\r\n\ \ \ \ \ \ \ \ \ \ \ \ la\ valeur\ en\ degr\u00E9\ Fahrenheit\r\n\ @return\ la\ conversion\ en\ degr\u00E9\ Celsius\r\n
+numComments=3
